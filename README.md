@@ -14,6 +14,7 @@ Test linux on the new Snapdragon X Elite powered Surface
 | USB    | Untested    |
 | Touch/Pen | Untested |
 | GPU/Display | Untested |
+| NPU | Untested |
 | Cameras | Untested |
 | Keyboard | Untested |
 | WiFi/BT | Untested |
