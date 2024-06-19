@@ -9,7 +9,9 @@ Test linux on the new Snapdragon X Elite powered Surface
 # Functionality
 | Area    | Status |
 | -------- | ------- |
-| Boot  | Untested   |
+| Boot  | ```html 
+    <span style="color: red"> Grub loads, but bootloops upon selecting OS </span>
+    ```   |
 | SSD | Untested |
 | USB    | Untested    |
 | Touch/Pen | Untested |
