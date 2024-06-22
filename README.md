@@ -1,3 +1,7 @@
+# I returned the Surface
+it was a nice device, and I hope for great linux support on the platform, but it was just another computer I didn't need.
+
+
 # Linux-Surface-Copilot
 Repo to track linux testing on surface pro 11th edition
 
