@@ -16,7 +16,7 @@ https://discourse.ubuntu.com/t/ubuntu-24-10-concept-snapdragon-x-elite/48800
 # Functionality
 | Area    | Status |
 | -------- | ------- |
-| Boot  | Grub loads, but bootloops upon selecting OS |
+| Boot  | Grub loads, but locks up immedately and then bootloops |
 | SSD | Untested |
 | USB    | Untested    |
 | Touch/Pen | Untested |
