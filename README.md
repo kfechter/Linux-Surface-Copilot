@@ -16,10 +16,11 @@ https://discourse.ubuntu.com/t/ubuntu-24-10-concept-snapdragon-x-elite/48800
 # Functionality
 | Area    | Status |
 | -------- | ------- |
-| Boot  | Grub loads, but locks up immedately and then bootloops |
-| SSD | Untested |
+| Boot  | Booting to desktop is now successful - [See Here](https://bugs.launchpad.net/ubuntu-concept/+bug/2084951) |
+| SSD | Can install to SSD and boot from installation |
 | USB    | Untested    |
-| Touch/Pen | Untested |
+| Touch/Pen | Non Functional |
+| Audio | Non Functional |
 | GPU/Display | Untested |
 | NPU | Untested |
 | Cameras | Untested |
